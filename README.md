@@ -1,7 +1,7 @@
 # Arrays
 just arrays
 
-
+```c#
 using System;
 
 namespace Arrays
@@ -32,4 +32,4 @@ namespace Arrays
         }
     }
 }
-
+```

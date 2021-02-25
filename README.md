@@ -1,5 +1,6 @@
 # Arrays
 just arrays
+thx to the Tutorials: https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ
 
 ```c#
 using System;

@@ -1,6 +1,7 @@
 # Arrays  
 just arrays  
-thx to the tutorials: https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ  
+  
+thx to the tutorials: https://www.youtube.com/channel/UCVdfgrCLfJQfO5EgPlzaYAQ  [German]
 
 ```c#
 using System;
